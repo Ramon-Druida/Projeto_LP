@@ -2,7 +2,7 @@
 
  Esse projeto com como objetivo a prática da programação usando microcontroladores, para a construção dos protótipos foram usados:
  
-Projeto_1
+**Projeto_1**
 
   1 - Arduino Mega 2560.
   2 - Arduinos uno.
@@ -19,7 +19,7 @@ Projeto_1
   1 - Fita led RGB.
   15 - LED's
 
-Projeto_2
+**Projeto_2**
 
   1 - Protoboard.
   1 - Esp 8266 (Node MCU)
