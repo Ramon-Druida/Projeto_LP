@@ -34,5 +34,5 @@
  * 2 - Botões
  * 3 - Resistores 330 Ohms
  * 2 - Resistores 1/6 
-  
+ 
   ---
